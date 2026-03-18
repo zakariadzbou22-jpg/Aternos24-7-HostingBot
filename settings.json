@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Allawis.aternos.me",
+    "ip": "dragonfish.aternos.host",
     "port": 54436,
     "version": "",
     "try-creative": false
